@@ -1,0 +1,4 @@
+theme: minima
+title: Ethiopic Script OCR
+author: Menelik Berhan
+description: An app run from command line to do an OCR on images and pdfs containing Ethiopic Script
